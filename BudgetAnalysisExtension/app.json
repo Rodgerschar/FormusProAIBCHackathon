@@ -1,0 +1,32 @@
+{
+    "id": "e211a752-d1cc-4b5f-bb2f-1031a3ca0779",
+    "name": "BudgetAnalysisExtension",
+    "publisher": "Default Publisher",
+    "version": "1.0.0.0",
+    "brief": "",
+    "description": "",
+    "privacyStatement": "",
+    "EULA": "",
+    "help": "",
+    "url": "",
+    "logo": "",
+    "dependencies": [],
+    "screenshots": [],
+    "platform": "1.0.0.0",
+    "application": "23.0.0.0",
+    "idRanges": [
+        {
+            "from": 50200,
+            "to": 50249
+        }
+    ],
+    "resourceExposurePolicy": {
+        "allowDebugging": true,
+        "allowDownloadingSource": true,
+        "includeSourceInSymbolFile": true
+    },
+    "runtime": "12.1",
+    "features": [
+        "NoImplicitWith"
+    ]
+}
